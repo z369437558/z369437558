@@ -14,7 +14,8 @@
 | 9/12–13 | 週末 | — |
 | 9/14 (月) | 10:30–11:00 定例 | 提示しない（本人判断） |
 | 9/15 (火) | 10:15 (中国時間) 福州発 → 東京着は午後 | 不可 |
-| 9/16 (水) 以降 | 東京。9/16 22:00 Abbeal 面談。9/17 は Monoxer 技術面接を 10:00–13:00 開始 or 18:00 開始で提示済み | 10:00–18:00（9/17 の Monoxer 枠と重ならないよう注意） |
+| 9/16 (水) | 東京。22:00 Abbeal 面談 | 13:00–18:00（本人指定） |
+| 9/17–18 | 9/17 は Monoxer 技術面接を 10:00–13:00 開始 or 18:00 開始で提示済み | 今回は提示しない（本人判断） |
 
 - JST 10:00–18:00 は中国時間 9:00–17:00。福州のホテルからオンライン参加になる。
 - 中国からは Google Meet が使えない（VPN 必須）。Zoom / Teams は概ね問題なし。会議ツールを事前に確認する。
@@ -46,9 +47,9 @@ Regarding the four points Stockmark asked about, I confirm all of them:
 Availability (JST, all online):
 1. Thu 9/10 — 10:00–14:00 or 16:00–17:00
 2. Fri 9/11 — 10:00–13:00
-3. Wed 9/16 – Fri 9/18 — 10:00–18:00 (any day)
+3. Wed 9/16 — 13:00–18:00
 
-Unfortunately 9/9 and 9/12–9/15 are not possible on my side. One note for transparency: I'm on a short personal trip overseas from 9/7 to 9/15, so for the 9/10 and 9/11 slots I would be joining from a hotel with a stable connection. Zoom or Teams work without issue; if Stockmark uses Google Meet, please let me know in advance so I can prepare. From 9/16 I'm back in Tokyo and fully available.
+Unfortunately 9/9 and 9/12–9/15 are not possible on my side. One note for transparency: I'm on a short personal trip overseas from 9/7 to 9/15, so for the 9/10 and 9/11 slots I would be joining from a hotel with a stable connection. Zoom or Teams work without issue; if Stockmark uses Google Meet, please let me know in advance so I can prepare. On 9/16 I will be back in Tokyo.
 
 Legal name as shown on my passport:
 - Surname: LIU
