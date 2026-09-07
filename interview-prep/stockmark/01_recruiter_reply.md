@@ -8,13 +8,13 @@
 | 日付 | 予定 | 面接に使える枠（JST） |
 |---|---|---|
 | 9/7 (月) | 15:30 成田T1 → 福州。以降 9/15 まで中国・福州滞在 | — |
-| 9/9 (水) | 10:30–11:00 定例、12:00–14:00 銀行カード受取、Monoxer コーディングテスト期限 | 14:00–18:00 |
-| 9/10 (木) | 10:00–11:00 GMO/docomo 折返し確認・定例 | 11:00–18:00 |
-| 9/11 (金) | 18:00 Mercari 技術課題 提出期限（この日は避ける） | 避ける |
+| 9/9 (水) | 10:30–11:00 定例、12:00–14:00 銀行カード受取、Monoxer コーディングテスト期限 | 提示しない（本人判断） |
+| 9/10 (木) | 10:00–11:00 GMO/docomo 折返し確認・定例 | 10:00–14:00、16:00–17:00（本人指定） |
+| 9/11 (金) | 18:00 Mercari 技術課題 提出期限 | 10:00–13:00（本人指定） |
 | 9/12–13 | 週末 | — |
-| 9/14 (月) | 10:30–11:00 定例 | 11:00–18:00 |
+| 9/14 (月) | 10:30–11:00 定例 | 提示しない（本人判断） |
 | 9/15 (火) | 10:15 (中国時間) 福州発 → 東京着は午後 | 不可 |
-| 9/16 (水) 以降 | 東京。9/16 22:00 Abbeal 面談のみ | 10:00–18:00 ほぼ空き |
+| 9/16 (水) 以降 | 東京。9/16 22:00 Abbeal 面談。9/17 は Monoxer 技術面接を 10:00–13:00 開始 or 18:00 開始で提示済み | 10:00–18:00（9/17 の Monoxer 枠と重ならないよう注意） |
 
 - JST 10:00–18:00 は中国時間 9:00–17:00。福州のホテルからオンライン参加になる。
 - 中国からは Google Meet が使えない（VPN 必須）。Zoom / Teams は概ね問題なし。会議ツールを事前に確認する。
@@ -44,12 +44,11 @@ Regarding the four points Stockmark asked about, I confirm all of them:
 - An interview conducted in Japanese is no problem.
 
 Availability (JST, all online):
-1. Wed 9/9 — 14:00–18:00
-2. Thu 9/10 — 11:00–18:00
-3. Mon 9/14 — 11:00–18:00
-4. (Backup) Wed 9/16 – Fri 9/18 — 10:00–18:00, if the week of 9/16 is easier for the interviewer.
+1. Thu 9/10 — 10:00–14:00 or 16:00–17:00
+2. Fri 9/11 — 10:00–13:00
+3. Wed 9/16 – Fri 9/18 — 10:00–18:00 (any day)
 
-One note for transparency: I'm on a short personal trip overseas from 9/7 to 9/15, so for the 9/9, 9/10 and 9/14 slots I would be joining from a hotel with a stable connection. Zoom or Teams work without issue; if Stockmark uses Google Meet, please let me know in advance so I can prepare. If they prefer, I'm fully available from 9/16 onward back in Tokyo.
+Unfortunately 9/9 and 9/12–9/15 are not possible on my side. One note for transparency: I'm on a short personal trip overseas from 9/7 to 9/15, so for the 9/10 and 9/11 slots I would be joining from a hotel with a stable connection. Zoom or Teams work without issue; if Stockmark uses Google Meet, please let me know in advance so I can prepare. From 9/16 I'm back in Tokyo and fully available.
 
 Legal name as shown on my passport:
 - Surname: LIU
@@ -80,5 +79,5 @@ Jianfei Liu
 - [ ] パスポートの表記（LIU / JIANFEI）を実物で再確認する。
 - [ ] 海外からの接続について書くかどうかを決める（書かない場合は該当段落を削除）。
 - [ ] Randstad 宛の Gmail 下書きを確認して送信する。宇都様への返信は Randstad 送信後でも同時でもよい。
-- [ ] 9/9 の Monoxer テストを 9/8 までに終えておく（9/9 の枠を空けるため）。
-- [ ] Mercari 課題（9/11 18:00 期限）を 9/10 中に提出できる見込みかを確認。難しければ 9/10 の枠を 15:00 以降に絞る。
+- [ ] Monoxer コーディングテストは 9/9 期限。
+- [ ] Mercari 課題は 9/11 18:00 期限（題目未着・延長申請中）。9/11 10:00–13:00 に面接が入った場合は提出時間を確保しておく。
